@@ -1,3 +1,4 @@
 search()
-ls()
 
+library(ggplot2)
+require(devtools)
